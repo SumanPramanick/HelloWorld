@@ -1,5 +1,5 @@
 {
-    "name": "sam/hello-world",
+    "name": "suman/hello-world",
     "autoload": {
         "psr-4": {
             "HelloWorld\\": "src/"

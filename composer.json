@@ -1,0 +1,15 @@
+{
+    "name": "sam/hello-world",
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Suman Pramanick",
+            "email": "pramanicksuman1999@gmail.com"
+        }
+    ],
+    "require": {}
+}
